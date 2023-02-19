@@ -1,0 +1,10 @@
+{
+  // https://www.typescriptlang.org/tsconfig#compilerOptions
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "es2022",
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+}

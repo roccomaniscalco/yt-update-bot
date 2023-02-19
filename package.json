@@ -1,0 +1,28 @@
+{
+  "name": "yt-update-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccomaniscalco/yt-update-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roccomaniscalco/yt-update-bot/issues"
+  },
+  "homepage": "https://github.com/roccomaniscalco/yt-update-bot#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "fastify": "^4.13.0"
+  }
+}
